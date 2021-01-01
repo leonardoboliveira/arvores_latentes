@@ -1,0 +1,8 @@
+nltk
+matplotlib
+mmh3
+PyStanfordDependencies
+cython
+future
+JPype1
+beautifulsoup4

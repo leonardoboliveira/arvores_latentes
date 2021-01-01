@@ -1,0 +1,4 @@
+numpy
+num2words
+tqdm
+spacy

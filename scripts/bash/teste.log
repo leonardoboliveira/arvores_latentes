@@ -1,0 +1,144 @@
++ FILE=/mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z
++ GOLD_PATH=../../../Datasets/conll/train
++ DATASET=train
++ MODEL_PATH=../../models/cort
++ DATA_PATH=/mnt/d/ProjetoFinal/data/train
++ export PYTHONPATH=../../source
++ PYTHONPATH=../../source
++ SCORER=/home/loliveira/anaconda3/envs/cort/lib/python3.6/site-packages/cort/reference-coreference-scorers/v8.01/scorer.pl
+++ mktemp -d
++ export WORK_DIR=/tmp/tmp.R9kIEKA0d0
++ WORK_DIR=/tmp/tmp.R9kIEKA0d0
++ echo /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z /tmp/tmp.R9kIEKA0d0
+/mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z /tmp/tmp.R9kIEKA0d0
++ export MODEL=/tmp/tmp.R9kIEKA0d0/model.obj
++ MODEL=/tmp/tmp.R9kIEKA0d0/model.obj
++ SPLIT=(${FILE//./ })
++ OUT_PATTERN=/tmp/tmp.R9kIEKA0d0/train.original
++ 7za x /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z -o/tmp/tmp.R9kIEKA0d0 -y
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C.UTF-8,Utf16=on,HugeFiles=on,64 bits,8 CPUs AMD FX(tm)-8320 Eight-Core Processor            (600F20),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 2296815 bytes (2243 KiB)
+
+Extracting archive: /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z
+--
+Path = /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z
+Type = 7z
+Physical Size = 2296815
+Headers Size = 603
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Everything is Ok
+
+Files: 27
+Size:       156384885
+Compressed: 2296815
++ [[ -f /tmp/tmp.R9kIEKA0d0/flags.sh ]]
++ chmod 754 /tmp/tmp.R9kIEKA0d0/flags.sh
++ export EXTRA_ROOT=/tmp/tmp.R9kIEKA0d0
++ EXTRA_ROOT=/tmp/tmp.R9kIEKA0d0
++ . /tmp/tmp.R9kIEKA0d0/flags.sh
+++ export SKIP_FEATURE_INDUCTION=1
+++ SKIP_FEATURE_INDUCTION=1
+++ export BERT_ENCODE=NONE
+++ BERT_ENCODE=NONE
+++ export MAX_DISTANCE=999
+++ MAX_DISTANCE=999
+++ export BINS_FILE=/tmp/tmp.R9kIEKA0d0/deciles_b2.csv
+++ BINS_FILE=/tmp/tmp.R9kIEKA0d0/deciles_b2.csv
+++ [[ 1 -eq 0 ]]
++ export BERT_DB_PATH=/mnt/d/ProjetoFinal/data/train/NONE
++ BERT_DB_PATH=/mnt/d/ProjetoFinal/data/train/NONE
++ mkdir /tmp/tmp.R9kIEKA0d0/gold
++ mkdir /tmp/tmp.R9kIEKA0d0/predict
++ export -f run_predict
+++ mktemp
++ PARAMS=/tmp/tmp.jPNC5OigLo
++ find ../../../Datasets/conll/train -name '*gold*'
++ parallel run_predict
++ rm /tmp/tmp.jPNC5OigLo
++ echo 'Finished predicting. Measuring'
+Finished predicting. Measuring
++ cat /tmp/tmp.R9kIEKA0d0/predict/tmp.70Kz7fh2Uc /tmp/tmp.R9kIEKA0d0/predict/tmp.EtXZehbgTq /tmp/tmp.R9kIEKA0d0/predict/tmp.JRlHAuJ00s /tmp/tmp.R9kIEKA0d0/predict/tmp.N5Ft2Wu3Kw /tmp/tmp.R9kIEKA0d0/predict/tmp.hUZKYahbUp /tmp/tmp.R9kIEKA0d0/predict/tmp.l0Wu4MkG2H /tmp/tmp.R9kIEKA0d0/predict/tmp.mXRQyk7gkE /tmp/tmp.R9kIEKA0d0/predict/tmp.xCO2ro1dzw
++ cat /tmp/tmp.R9kIEKA0d0/gold/cctv_0001.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cctv_0002.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cctv_0003.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cctv_0004.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cnn_0001.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cnn_0002.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cnn_0003.gold_conll /tmp/tmp.R9kIEKA0d0/gold/cnn_0004.gold_conll
++ perl /home/loliveira/anaconda3/envs/cort/lib/python3.6/site-packages/cort/reference-coreference-scorers/v8.01/scorer.pl all /tmp/tmp.R9kIEKA0d0/final_gold /tmp/tmp.R9kIEKA0d0/final_predict none
++ tee -a /tmp/tmp.R9kIEKA0d0/train.original.out
+version: 8.0 /home/loliveira/anaconda3/envs/cort/lib/python3.6/site-packages/cort/reference-coreference-scorers/v8.01/lib/CorScorer.pm
+
+METRIC muc:
+
+====== TOTALS =======
+Identification of Mentions: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+Coreference: Recall: (0 / 5226) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+
+METRIC bcub:
+
+====== TOTALS =======
+Identification of Mentions: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+Coreference: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+
+METRIC ceafm:
+
+====== TOTALS =======
+Identification of Mentions: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+Coreference: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+
+METRIC ceafe:
+
+====== TOTALS =======
+Identification of Mentions: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+Coreference: Recall: (0 / 1542) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+
+METRIC blanc:
+
+====== TOTALS =======
+Identification of Mentions: Recall: (0 / 6768) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+
+Coreference:
+Coreference links: Recall: (0 / 36428) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+Non-coreference links: Recall: (0 / 231228) 0%	Precision: (0 / 0) 0%	F1: 0%
+--------------------------------------------------------------------------
+BLANC: Recall: (0 / 1) 0%	Precision: (0 / 1) 0%	F1: 0%
+--------------------------------------------------------------------------
++ 7za a /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z /tmp/tmp.R9kIEKA0d0/train.original.out
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C.UTF-8,Utf16=on,HugeFiles=on,64 bits,8 CPUs AMD FX(tm)-8320 Eight-Core Processor            (600F20),ASM,AES-NI)
+
+Open archive: /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z
+--
+Path = /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z
+Type = 7z
+Physical Size = 2296815
+Headers Size = 603
+Method = LZMA2:24
+Solid = +
+Blocks = 4
+
+Scanning the drive:
+1 file, 10301 bytes (11 KiB)
+
+Updating archive: /mnt/d/ProjetoFinal/models/cort_models_cort_NONE.train.999.original.7z
+
+Items to compress: 1
+
+
+Files read from disk: 1
+Archive size: 2296888 bytes (2244 KiB)
+Everything is Ok
++ rm -Rf /tmp/tmp.R9kIEKA0d0

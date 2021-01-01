@@ -1,0 +1,8 @@
+digraph Tree {
+ATH [ label="ante-head" ];
+ANP [ label="ana-pos" ];
+
+	dist -> sameNE  ;
+	dist -> ANP  ;
+	sameNE -> ATH  ;
+}

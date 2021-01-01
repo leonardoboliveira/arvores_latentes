@@ -1,0 +1,13 @@
+export SKIP_FEATURE_INDUCTION=0
+export BERT_ENCODE=glove
+export MAX_DISTANCE=40
+export PICKLED_PATH=${PICKLE_ROOT:-/mnt/rede/data}/pickle/${BERT_ENCODE}_${MAX_DISTANCE}_bins
+export ENCODER_MODEL=$MODEL_ROOT/encoder_${MAX_DISTANCE}_diagonal.h5
+export FULL_MODEL=$MODEL_ROOT/model_${MAX_DISTANCE}_diagonal.h5
+export FULL_MODEL=$MODEL_ROOT/model_cumsum.h5
+
+export BINS_FILE=${EXTRA_ROOT:-../../extra_files}/deciles_${BERT_ENCODE}.csv
+
+if [[ "$SKIP_FEATURE_INDUCTION" -eq "0" ]]; then
+    unset SKIP_FEATURE_INDUCTION
+fi

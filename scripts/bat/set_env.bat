@@ -1,0 +1,1 @@
+set PYTHONPATH=D:\GDrive\Puc\Projeto Final\Code\source;D:\GDrive\Puc\Projeto Final\Code\third_party\cort

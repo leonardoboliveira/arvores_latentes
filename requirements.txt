@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow
+tqdm
+scikit-learn
+bert-tensorflow
+spacy>=2.2.1
+compress_pickle

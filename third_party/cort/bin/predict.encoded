@@ -1,0 +1,687 @@
+#begin document (bc/cnn/00/cnn_0001); part 005
+bc/cnn/00/cnn_0001	5	0	Still	RB	(TOP(FRAG(FRAG(ADVP*)	-	-	-	Rick_Sanchez	*	(ARGM-TMP*)	*	*	*	-
+bc/cnn/00/cnn_0001	5	1	to	TO	(S(VP*	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	2	come	VB	(VP*	come	01	2	Rick_Sanchez	*	(V*)	*	*	*	-
+bc/cnn/00/cnn_0001	5	3	on	IN	(PP*	-	-	-	Rick_Sanchez	*	(ARGM-LOC*	*	*	*	-
+bc/cnn/00/cnn_0001	5	4	Newsnight	NNP	(NP*))))))	-	-	-	Rick_Sanchez	(WORK_OF_ART)	*)	*	*	*	(1)
+bc/cnn/00/cnn_0001	5	5	the	DT	(FRAG(FRAG(NP*	-	-	-	Rick_Sanchez	(GPE*	*	(ARG1*	*	*	(2
+bc/cnn/00/cnn_0001	5	6	Big	NNP	*	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	7	Easy	NNP	*)	-	-	-	Rick_Sanchez	*)	*	*)	*	*	2)
+bc/cnn/00/cnn_0001	5	8	suddenly	RB	(ADVP*)	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	9	split	VBN	(VP*	split	01	-	Rick_Sanchez	*	*	(V*)	*	*	-
+bc/cnn/00/cnn_0001	5	10	in	IN	(PP*	-	-	-	Rick_Sanchez	*	*	(ARGM-PRD*	*	*	-
+bc/cnn/00/cnn_0001	5	11	two	CD	(NP*))))	-	-	-	Rick_Sanchez	(CARDINAL)	*	*)	*	*	-
+bc/cnn/00/cnn_0001	5	12	how	WRB	(SBAR(WHADVP*)	-	-	-	Rick_Sanchez	*	*	*	*	(ARGM-MNR*)	-
+bc/cnn/00/cnn_0001	5	13	people	NNS	(S(NP(NP*)	people	-	1	Rick_Sanchez	*	*	*	*	(ARG0*	-
+bc/cnn/00/cnn_0001	5	14	in	IN	(PP*	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	15	the	DT	(NP*	-	-	-	Rick_Sanchez	*	*	*	*	*	(2
+bc/cnn/00/cnn_0001	5	16	same	JJ	*	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	17	city	NN	*)))	city	-	1	Rick_Sanchez	*	*	*	*	*)	2)
+bc/cnn/00/cnn_0001	5	18	are	VBP	(VP*	be	03	-	Rick_Sanchez	*	*	*	(V*)	*	-
+bc/cnn/00/cnn_0001	5	19	living	VBG	(VP*	live	01	1	Rick_Sanchez	*	*	*	*	(V*)	-
+bc/cnn/00/cnn_0001	5	20	different	JJ	(NP*	-	-	-	Rick_Sanchez	*	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0001	5	21	lives	NNS	*)	life	-	2	Rick_Sanchez	*	*	*	*	*)	-
+bc/cnn/00/cnn_0001	5	22	two	CD	(NP(NP*	-	-	-	Rick_Sanchez	(DATE*	*	*	*	(ARGM-TMP*	-
+bc/cnn/00/cnn_0001	5	23	months	NNS	*)	month	-	1	Rick_Sanchez	*)	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	24	after	IN	(PP*	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	25	Katrina	NNP	(NP*))))))))	-	-	-	Rick_Sanchez	(EVENT)	*	*	*	*)	-
+bc/cnn/00/cnn_0001	5	26	/.	.	*))	-	-	-	Rick_Sanchez	*	*	*	*	*	-
+
+bc/cnn/00/cnn_0001	5	0	We	PRP	(TOP(S(NP*)	-	-	-	Rick_Sanchez	*	(ARG0*)	(1)
+bc/cnn/00/cnn_0001	5	1	will	MD	(VP*	-	-	-	Rick_Sanchez	*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0001	5	2	take	VB	(VP*	take	01	4	Rick_Sanchez	*	(V*)	-
+bc/cnn/00/cnn_0001	5	3	you	PRP	(NP*)	-	-	-	Rick_Sanchez	*	(ARG1*)	-
+bc/cnn/00/cnn_0001	5	4	there	RB	(ADVP*)))	-	-	-	Rick_Sanchez	*	(ARG2*)	-
+bc/cnn/00/cnn_0001	5	5	/.	.	*))	-	-	-	Rick_Sanchez	*	*	-
+
+bc/cnn/00/cnn_0001	5	0	Plus	CC	(TOP(S*	-	-	-	Kyra_Phillips	*	(ARGM-DIS*)	*	-
+bc/cnn/00/cnn_0001	5	1	he	PRP	(NP*)	-	-	-	Kyra_Phillips	*	(ARG1*)	*	(10)
+bc/cnn/00/cnn_0001	5	2	's	VBZ	(VP*	be	01	1	Kyra_Phillips	*	(V*)	*	-
+bc/cnn/00/cnn_0001	5	3	a	DT	(NP(NP*	-	-	-	Kyra_Phillips	*	(ARG2*	*	-
+bc/cnn/00/cnn_0001	5	4	convicted	VBN	*	convict	01	-	Kyra_Phillips	*	*	(V*)	-
+bc/cnn/00/cnn_0001	5	5	killer	NN	*)	-	-	-	Kyra_Phillips	*	*	(ARG1*)	-
+bc/cnn/00/cnn_0001	5	6	a	DT	(NP(NP*	-	-	-	Kyra_Phillips	*	*	*	-
+bc/cnn/00/cnn_0001	5	7	co-founder	NN	*)	-	-	-	Kyra_Phillips	*	*	*	-
+bc/cnn/00/cnn_0001	5	8	of	IN	(PP*	-	-	-	Kyra_Phillips	*	*	*	-
+bc/cnn/00/cnn_0001	5	9	a	DT	(NP*	-	-	-	Kyra_Phillips	*	*	*	-
+bc/cnn/00/cnn_0001	5	10	violent	JJ	*	-	-	-	Kyra_Phillips	*	*	*	-
+bc/cnn/00/cnn_0001	5	11	street	NN	*	-	-	-	Kyra_Phillips	*	*	*	-
+bc/cnn/00/cnn_0001	5	12	gang	NN	*)))))	-	-	-	Kyra_Phillips	*	*)	*	-
+bc/cnn/00/cnn_0001	5	13	/.	.	*))	-	-	-	Kyra_Phillips	*	*	*	-
+
+bc/cnn/00/cnn_0001	5	0	Now	RB	(TOP(S(ADVP*)	-	-	-	Kyra_Phillips	*	(ARGM-TMP*)	-
+bc/cnn/00/cnn_0001	5	1	he	PRP	(NP*)	-	-	-	Kyra_Phillips	*	(ARG1*)	(10)
+bc/cnn/00/cnn_0001	5	2	's	VBZ	(VP*	be	01	4	Kyra_Phillips	*	(V*)	-
+bc/cnn/00/cnn_0001	5	3	on	IN	(PP*	-	-	-	Kyra_Phillips	*	(ARG2*	-
+bc/cnn/00/cnn_0001	5	4	death	NN	(NP*	-	-	-	Kyra_Phillips	*	*	-
+bc/cnn/00/cnn_0001	5	5	row	NN	*)))	-	-	-	Kyra_Phillips	*	*)	-
+bc/cnn/00/cnn_0001	5	6	/.	.	*))	-	-	-	Kyra_Phillips	*	*	-
+
+bc/cnn/00/cnn_0001	5	0	So	RB	(TOP(SBARQ(ADVP*)	-	-	-	Kyra_Phillips	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	1	why	WRB	(WHADVP*)	-	-	-	Kyra_Phillips	*	*	(ARGM-DSP*)	*	-
+bc/cnn/00/cnn_0001	5	2	are	VBP	(SQ*	be	03	-	Kyra_Phillips	*	(V*)	*	*	-
+bc/cnn/00/cnn_0001	5	3	so	RB	(NP(ADJP*	-	-	-	Kyra_Phillips	*	*	(ARG0*	(ARG0*	-
+bc/cnn/00/cnn_0001	5	4	many	JJ	*)	-	-	-	Kyra_Phillips	*	*	*	*	-
+bc/cnn/00/cnn_0001	5	5	people	NNS	*)	people	-	1	Kyra_Phillips	*	*	*)	*)	-
+bc/cnn/00/cnn_0001	5	6	trying	VBG	(VP*	try	01	1	Kyra_Phillips	*	*	(V*)	*	-
+bc/cnn/00/cnn_0001	5	7	to	TO	(S(VP*	-	-	-	Kyra_Phillips	*	*	(ARG1*	*	-
+bc/cnn/00/cnn_0001	5	8	save	VB	(VP*	save	02	1	Kyra_Phillips	*	*	*	(V*)	-
+bc/cnn/00/cnn_0001	5	9	his	PRP$	(NP*	-	-	-	Kyra_Phillips	*	*	*	(ARG1*	(10)
+bc/cnn/00/cnn_0001	5	10	life	NN	*))))))	life	-	3	Kyra_Phillips	*	*	*)	*)	-
+bc/cnn/00/cnn_0001	5	11	/?	.	*))	-	-	-	Kyra_Phillips	*	*	*	*	-
+#end document
+#begin document (bc/cnn/00/cnn_0002); part 017
+bc/cnn/00/cnn_0002	17	0	Still	RB	(TOP(FRAG(FRAG(ADVP*	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	1	ahead	RB	*)	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	2	on	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	3	Three	NNP	(NP*	-	-	-	Anderson_Cooper	(WORK_OF_ART*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	4	Sixty	NNP	*)))	-	-	-	Anderson_Cooper	*)	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	.	,	*	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	It	PRP	(S(S(NP*)	-	-	-	Anderson_Cooper	*	(ARG1*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	may	MD	(VP*	-	-	-	Anderson_Cooper	*	(ARGM-MOD*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	be	VB	(VP*	be	01	1	Anderson_Cooper	*	(V*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	9	off	JJ	(NP(NML*	-	-	-	Anderson_Cooper	*	(ARG2*	*	*	*	(3
+bc/cnn/00/cnn_0002	17	10	-	HYPH	*	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	year	NN	*)	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	elections	NNS	*))))	-	-	-	Anderson_Cooper	*	*)	*	*	*	3)
+bc/cnn/00/cnn_0002	17	13	but	CC	*	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	14	they	PRP	(S(NP*)	-	-	-	Anderson_Cooper	*	*	*	*	(ARG1*)	(3)
+bc/cnn/00/cnn_0002	17	15	're	VBP	(VP*	be	03	-	Anderson_Cooper	*	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	16	being	VBG	(VP*	be	03	-	Anderson_Cooper	*	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	17	closely	RB	(ADVP*)	-	-	-	Anderson_Cooper	*	*	*	*	(ARGM-MNR*)	-
+bc/cnn/00/cnn_0002	17	18	watched	VBN	(VP*)))))	watch	01	1	Anderson_Cooper	*	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	19	/.	.	*))	-	-	-	Anderson_Cooper	*	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	The	DT	(TOP(NP(NP*	-	-	-	Anderson_Cooper	*	*	(5
+bc/cnn/00/cnn_0002	17	1	latest	JJS	*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	2	results	NNS	*)	result	-	3	Anderson_Cooper	*	*	5)
+bc/cnn/00/cnn_0002	17	3	and	CC	*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	4	what	WP	(SBAR(WHNP*)	-	-	-	Anderson_Cooper	*	(ARG1*)	-
+bc/cnn/00/cnn_0002	17	5	they	PRP	(S(NP*)	-	-	-	Anderson_Cooper	*	(ARG0*)	(5)
+bc/cnn/00/cnn_0002	17	6	say	VBP	(VP*	say	01	1	Anderson_Cooper	*	(V*)	-
+bc/cnn/00/cnn_0002	17	7	about	IN	(PP*	-	-	-	Anderson_Cooper	*	(ARG3*	-
+bc/cnn/00/cnn_0002	17	8	the	DT	(NP*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	9	future	NN	*)))))	future	-	1	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	10	/.	.	*))	-	-	-	Anderson_Cooper	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Also	RB	(TOP(FRAG(ADVP*)	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	1	the	DT	(NP(NP(NP(NP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	2	crisis	NN	*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	3	unfolding	NN	*)	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	4	in	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	France	NNP	(NP*)))	-	-	-	Anderson_Cooper	(GPE)	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	what	WP	(SBAR(WHNP*)	-	-	-	Anderson_Cooper	*	*	(ARG1*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	the	DT	(S(NP(NP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	(12
+bc/cnn/00/cnn_0002	17	8	riots	NNS	*)	-	-	-	Anderson_Cooper	*	*	*	*	*	*	12)
+bc/cnn/00/cnn_0002	17	9	and	CC	*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	the	DT	(NP(NP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	raids	NNS	*)	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	behind	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	13	them	PRP	(NP*))))	-	-	-	Anderson_Cooper	*	*	*	*	*	*	(12)
+bc/cnn/00/cnn_0002	17	14	have	VBP	(VP*	have	01	-	Anderson_Cooper	*	(V*)	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	15	revealed	VBN	(VP*)))))	reveal	01	-	Anderson_Cooper	*	*	(V*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	16	.	,	*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	17	And	CC	*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	18	why	WRB	(SBAR(WHADVP*)	-	-	-	Anderson_Cooper	*	*	*	(ARGM-CAU*)	*	*	-
+bc/cnn/00/cnn_0002	17	19	Maureen	NNP	(S(NP*	-	-	-	Anderson_Cooper	(PERSON*	*	*	(ARG0*	*	*	(16
+bc/cnn/00/cnn_0002	17	20	Dowd	NNP	*)	-	-	-	Anderson_Cooper	*)	*	*	*)	*	*	16)
+bc/cnn/00/cnn_0002	17	21	thinks	VBZ	(VP*	think	01	1	Anderson_Cooper	*	*	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	22	women	NNS	(SBAR(S(NP(NP*)	woman	-	1	Anderson_Cooper	*	*	*	(ARG1*	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	23	of	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	24	her	PRP$	(NP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	(16)
+bc/cnn/00/cnn_0002	17	25	generation	NN	*)))	generation	-	4	Anderson_Cooper	*	*	*	*	*	*)	-
+bc/cnn/00/cnn_0002	17	26	were	VBD	(VP*	be	03	-	Anderson_Cooper	*	*	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	27	sold	VBN	(VP*	sell	01	1	Anderson_Cooper	*	*	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	28	a	DT	(NP(NP*	-	-	-	Anderson_Cooper	*	*	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	29	bill	NN	*)	bill	-	1	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	30	of	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	31	goods	NNS	(NP*)))))))))))	-	-	-	Anderson_Cooper	*	*	*	*)	*	*)	-
+bc/cnn/00/cnn_0002	17	32	/.	.	*))	-	-	-	Anderson_Cooper	*	*	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	All	PDT	(TOP(NP(NP(NP*	-	-	-	Maureen_Dowd	*	(ARG1*	*	*	-
+bc/cnn/00/cnn_0002	17	1	the	DT	*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	2	things	NNS	*)	thing	-	1	Maureen_Dowd	*	*)	*	*	-
+bc/cnn/00/cnn_0002	17	3	we	PRP	(SBAR(S(NP*)	-	-	-	Maureen_Dowd	*	(ARG0*)	*	*	-
+bc/cnn/00/cnn_0002	17	4	did	VBD	(VP*))))	do	02	1	Maureen_Dowd	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	5	that	WDT	(SBAR(WHNP*)	-	-	-	Maureen_Dowd	*	*	*	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	6	we	PRP	(S(NP*)	-	-	-	Maureen_Dowd	*	*	(ARG0*)	*	-
+bc/cnn/00/cnn_0002	17	7	thought	VBD	(VP*	think	01	1	Maureen_Dowd	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	8	would	MD	(SBAR(S(VP*	-	-	-	Maureen_Dowd	*	*	(ARG1*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0002	17	9	make	VB	(VP*	make	02	3	Maureen_Dowd	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	10	us	PRP	(S(NP*)	-	-	-	Maureen_Dowd	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	11	more	RBR	(ADJP*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	fascinating	JJ	*)))))))))	-	-	-	Maureen_Dowd	*	*	*)	*)	-
+bc/cnn/00/cnn_0002	17	13	like	IN	(PP*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	14	high	RB	(NP(ADJP*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	15	-	HYPH	*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	16	powered	JJ	*)	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	17	careers	NNS	*))	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	18	/.	.	*))	-	-	-	Maureen_Dowd	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	And	CC	(TOP(S*	-	-	-	Maureen_Dowd	*	(ARGM-DIS*)	*	*	-
+bc/cnn/00/cnn_0002	17	1	we	PRP	(NP*)	-	-	-	Maureen_Dowd	*	(ARG0*)	*	*	-
+bc/cnn/00/cnn_0002	17	2	wanted	VBD	(VP*	want	01	1	Maureen_Dowd	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	3	that	DT	(NP*	-	-	-	Maureen_Dowd	*	(ARG1*	*	*	(28
+bc/cnn/00/cnn_0002	17	4	snappy	JJ	*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	Hepburn	NNP	(NML*	-	-	-	Maureen_Dowd	(PERSON)	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	Tracy	NNP	*)	-	-	-	Maureen_Dowd	(PERSON)	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	dialogue	NN	*)	dialogue	-	2	Maureen_Dowd	*	*)	*	*	28)
+bc/cnn/00/cnn_0002	17	8	because	IN	(SBAR*	-	-	-	Maureen_Dowd	*	(ARGM-CAU*	*	*	-
+bc/cnn/00/cnn_0002	17	9	actually	RB	(S(ADVP*)	-	-	-	Maureen_Dowd	*	*	(ARGM-ADV*)	*	-
+bc/cnn/00/cnn_0002	17	10	a	DT	(NP(NP*	-	-	-	Maureen_Dowd	*	*	(ARG0*	*	-
+bc/cnn/00/cnn_0002	17	11	lot	NN	*)	lot	-	1	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	of	IN	(PP*	-	-	-	Maureen_Dowd	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	13	guys	NNS	(NP*)))	-	-	-	Maureen_Dowd	*	*	*)	*	-
+bc/cnn/00/cnn_0002	17	14	find	VBP	(VP*	find	02	3	Maureen_Dowd	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	15	that	DT	(S(NP*)	-	-	-	Maureen_Dowd	*	*	(ARG1*	(ARG0*)	(28)
+bc/cnn/00/cnn_0002	17	16	draining	VBG	(VP*))))))	drain	01	2	Maureen_Dowd	*	*)	*)	(V*)	-
+bc/cnn/00/cnn_0002	17	17	/.	.	*))	-	-	-	Maureen_Dowd	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	We	PRP	(TOP(S(NP*)	-	-	-	Anderson_Cooper	*	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	1	'll	MD	(VP*	-	-	-	Anderson_Cooper	*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0002	17	2	talk	VBP	(VP*	talk	01	1	Anderson_Cooper	*	(V*)	-
+bc/cnn/00/cnn_0002	17	3	to	IN	(PP*	-	-	-	Anderson_Cooper	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	4	her	PRP	(NP*))	-	-	-	Anderson_Cooper	*	*)	(16)
+bc/cnn/00/cnn_0002	17	5	about	IN	(PP*	-	-	-	Anderson_Cooper	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	6	that	DT	(NP(NP*)	-	-	-	Anderson_Cooper	*	*	(28)
+bc/cnn/00/cnn_0002	17	7	and	CC	*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	8	a	DT	(NP(ADJP(NP*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	9	whole	JJ	*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	10	lot	NN	*)	lot	-	1	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	11	more	JJR	*))))))	-	-	-	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	12	/.	.	*))	-	-	-	Anderson_Cooper	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Be	VB	(TOP(VP*	be	01	1	Anderson_Cooper	*	(V*)	-
+bc/cnn/00/cnn_0002	17	1	right	RB	(ADVP*	-	-	-	Anderson_Cooper	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	2	back	RB	*)	-	-	-	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	3	/.	.	*))	-	-	-	Anderson_Cooper	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Election	NN	(TOP(S(NP*	-	-	-	Anderson_Cooper	*	(ARG1*)	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	returns	NNS	*)	return	04	7	Anderson_Cooper	*	(V*)	*	*)	-
+bc/cnn/00/cnn_0002	17	2	are	VBP	(VP*	be	03	-	Anderson_Cooper	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	3	coming	VBG	(VP*	come	01	1	Anderson_Cooper	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	4	in	RB	(ADVP*)	-	-	-	Anderson_Cooper	*	*	*	(ARGM-DIR*)	-
+bc/cnn/00/cnn_0002	17	5	from	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	(ARG3*	-
+bc/cnn/00/cnn_0002	17	6	around	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	the	DT	(NP*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	country	NN	*)))))	country	-	3	Anderson_Cooper	*	*	*	*)	-
+bc/cnn/00/cnn_0002	17	9	/.	.	*))	-	-	-	Anderson_Cooper	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	There	EX	(TOP(S(NP*)	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	1	are	VBP	(VP*	be	02	3	Anderson_Cooper	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	2	uh	UH	(INTJ*)	-	-	-	Anderson_Cooper	*	(ARGM-DIS*)	*	*	-
+bc/cnn/00/cnn_0002	17	3	state	NN	(NP(NP(NP(UCP*	state	-	2	Anderson_Cooper	*	(ARG1*	(ARG3*	*	-
+bc/cnn/00/cnn_0002	17	4	and	CC	*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	local	JJ	*)	-	-	-	Anderson_Cooper	*	*	*)	*	-
+bc/cnn/00/cnn_0002	17	6	races	NNS	*)	race	01	1	Anderson_Cooper	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	7	with	IN	(PP*	-	-	-	Anderson_Cooper	*	*	(ARGM-ADJ*	*	-
+bc/cnn/00/cnn_0002	17	8	nationally	RB	(NP(ADJP*	-	-	-	Anderson_Cooper	*	*	*	(ARGM-ADV*)	-
+bc/cnn/00/cnn_0002	17	9	known	VBN	*)	know	01	-	Anderson_Cooper	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	10	faces	NNS	*	face	-	2	Anderson_Cooper	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	11	and	CC	*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	issues	NNS	*)))	issue	-	1	Anderson_Cooper	*	*	*)	*)	-
+bc/cnn/00/cnn_0002	17	13	as	RB	(CONJP*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	14	well	RB	*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	15	as	IN	*)	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	16	a	DT	(NP*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	17	celebrity	NN	*	celebrity	-	1	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	18	or	CC	(QP*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	19	two	CD	*))))	-	-	-	Anderson_Cooper	(CARDINAL)	*)	*	*	-
+bc/cnn/00/cnn_0002	17	20	/.	.	*))	-	-	-	Anderson_Cooper	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	With	IN	(TOP(FRAG(PP*	-	-	-	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	1	us	PRP	(NP*))	-	-	-	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	2	tonight	NN	(NP*)	-	-	-	Anderson_Cooper	(TIME)	(45)
+bc/cnn/00/cnn_0002	17	3	CNN	NNP	(NP(NP*	-	-	-	Anderson_Cooper	(ORG)	(46
+bc/cnn/00/cnn_0002	17	4	's	POS	*)	-	-	-	Anderson_Cooper	*	46)
+bc/cnn/00/cnn_0002	17	5	John	NNP	(NML(NML*	-	-	-	Anderson_Cooper	(PERSON*	-
+bc/cnn/00/cnn_0002	17	6	King	NNP	*)	-	-	-	Anderson_Cooper	*)	-
+bc/cnn/00/cnn_0002	17	7	and	CC	*	-	-	-	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	8	Jeff	NNP	(NML*	-	-	-	Anderson_Cooper	(PERSON*	-
+bc/cnn/00/cnn_0002	17	9	Greenfield	NNP	*)))	-	-	-	Anderson_Cooper	*)	-
+bc/cnn/00/cnn_0002	17	10	/.	.	*))	-	-	-	Anderson_Cooper	*	-
+
+bc/cnn/00/cnn_0002	17	0	Let	VB	(TOP(S(VP*	let	01	1	Anderson_Cooper	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	1	's	PRP	(S(NP*)	-	-	-	Anderson_Cooper	*	(ARG1*	(ARG0*)	*	-
+bc/cnn/00/cnn_0002	17	2	start	VB	(VP*	start	01	1	Anderson_Cooper	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	3	with	IN	(PP*	-	-	-	Anderson_Cooper	*	*	(ARGM-MNR*	*	-
+bc/cnn/00/cnn_0002	17	4	breaking	VBG	(NP(NP*	break	01	-	Anderson_Cooper	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	5	news	NN	*)	news	-	1	Anderson_Cooper	*	*	*	(ARG1*)	-
+bc/cnn/00/cnn_0002	17	6	and	CC	*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	John	NNP	(NP(NP*	-	-	-	Anderson_Cooper	(PERSON*	*	*	*	(52
+bc/cnn/00/cnn_0002	17	8	King	NNP	*)	-	-	-	Anderson_Cooper	*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	9	in	IN	(PP*	-	-	-	Anderson_Cooper	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	DC	NNP	(NP*))))))))	-	-	-	Anderson_Cooper	(GPE)	*)	*)	*	52)
+bc/cnn/00/cnn_0002	17	11	/.	.	*))	-	-	-	Anderson_Cooper	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	What	WP	(TOP(SBARQ(WHNP*)	-	-	-	Anderson_Cooper	*	(ARG2*)	-
+bc/cnn/00/cnn_0002	17	1	's	VBZ	(SQ*	be	01	1	Anderson_Cooper	*	(V*)	-
+bc/cnn/00/cnn_0002	17	2	the	DT	(NP*	-	-	-	Anderson_Cooper	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	3	latest	JJS	*)	-	-	-	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	4	John	NNP	(NP*))	-	-	-	Anderson_Cooper	(PERSON)	(ARGM-DIS*)	(52)
+bc/cnn/00/cnn_0002	17	5	/?	.	*))	-	-	-	Anderson_Cooper	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Anderson	NNP	(TOP(FRAG(NP*)	-	-	-	John_King	(PERSON)	*	*	*	(55)
+bc/cnn/00/cnn_0002	17	1	more	JJR	(NP(NP(NP*	-	-	-	John_King	*	(ARGM-ADJ*)	*	*	-
+bc/cnn/00/cnn_0002	17	2	statements	NNS	*)	statement	01	3	John_King	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	3	from	IN	(PP*	-	-	-	John_King	*	(ARG0*	*	*	-
+bc/cnn/00/cnn_0002	17	4	the	DT	(NP(NP*	-	-	-	John_King	*	*	(ARG0*	*	-
+bc/cnn/00/cnn_0002	17	5	democrats	NNPS	*)	-	-	-	John_King	(NORP)	*	*)	*	-
+bc/cnn/00/cnn_0002	17	6	celebrating	VBG	(VP*	celebrate	01	1	John_King	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	7	tonight	NN	(NP*)))))	-	-	-	John_King	(TIME)	*)	(ARGM-TMP*)	*	(45)
+bc/cnn/00/cnn_0002	17	8	more	JJR	(NP(NP*	-	-	-	John_King	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	9	events	NNS	*)	event	-	1	John_King	*	*	*	*)	-
+bc/cnn/00/cnn_0002	17	10	planned	VBN	(VP*	plan	01	2	John_King	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	11	by	IN	(PP*	-	-	-	John_King	*	*	*	(ARG0*	-
+bc/cnn/00/cnn_0002	17	12	the	DT	(NP*	-	-	-	John_King	*	*	*	*	(60
+bc/cnn/00/cnn_0002	17	13	democrats	NNPS	*))	-	-	-	John_King	(NORP)	*	*	*)	60)
+bc/cnn/00/cnn_0002	17	14	tomorrow	NN	(NP*))))	-	-	-	John_King	(TIME)	*	*	(ARGM-TMP*)	(61)
+bc/cnn/00/cnn_0002	17	15	/.	.	*))	-	-	-	John_King	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	They	PRP	(TOP(S(NP*)	-	-	-	John_King	*	(ARG0*)	*	(60)
+bc/cnn/00/cnn_0002	17	1	believe	VBP	(VP*	believe	01	1	John_King	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	2	they	PRP	(SBAR(S(NP*)	-	-	-	John_King	*	(ARG1*	(ARG0*)	(60)
+bc/cnn/00/cnn_0002	17	3	have	VBP	(VP*	have	03	2	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	4	the	DT	(NP(NP*	-	-	-	John_King	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	5	upper	JJ	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	hand	NN	*)	hand	-	12	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	in	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	these	DT	(NP*	-	-	-	John_King	*	*	*	(3
+bc/cnn/00/cnn_0002	17	9	off	JJ	(NML*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	-	HYPH	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	year	NN	*)	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	elections	NNS	*)))))))	-	-	-	John_King	*	*)	*)	3)
+bc/cnn/00/cnn_0002	17	13	/.	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	The	DT	(TOP(FRAG(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	1	two	CD	*	-	-	-	John_King	(CARDINAL)	(ARGM-ADJ*)	*	-
+bc/cnn/00/cnn_0002	17	2	biggest	JJS	*	-	-	-	John_King	*	(ARGM-ADJ*)	*	-
+bc/cnn/00/cnn_0002	17	3	races	NNS	*)	race	01	1	John_King	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	4	the	DT	(NP(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	races	NNS	*)	race	01	1	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	6	for	IN	(PP*	-	-	-	John_King	*	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	7	the	DT	(NP(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	governorships	NNS	*)	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	9	of	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	Virginia	NNP	(NP(NP*)	-	-	-	John_King	(GPE)	*	*	(69)|(70
+bc/cnn/00/cnn_0002	17	11	and	CC	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	New	NNP	(NP*	-	-	-	John_King	(GPE*	*	*	(71
+bc/cnn/00/cnn_0002	17	13	Jersey	NNP	*))))))	-	-	-	John_King	*)	*	*)	70)|71)
+bc/cnn/00/cnn_0002	17	14	/.	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Democrats	NNPS	(TOP(S(S(NP*)	-	-	-	John_King	(NORP)	(ARG0*)	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	winning	VBG	(VP*	win	01	1	John_King	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	2	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	*	-
+bc/cnn/00/cnn_0002	17	3	both	DT	(NP(NP*)	-	-	-	John_King	*	*	*	(70
+bc/cnn/00/cnn_0002	17	4	of	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	those	DT	(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	states	NNS	*))))))	state	-	2	John_King	*	*)	*)	70)
+bc/cnn/00/cnn_0002	17	7	we	PRP	(NP*)	-	-	-	John_King	*	*	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	8	can	MD	(VP*	-	-	-	John_King	*	*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0002	17	9	show	VB	(VP*	show	01	1	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	10	you	PRP	(NP*)	-	-	-	John_King	*	*	(ARG2*)	-
+bc/cnn/00/cnn_0002	17	11	here	RB	(ADVP*)))	-	-	-	John_King	*	*	(ARGM-LOC*)	-
+bc/cnn/00/cnn_0002	17	12	/.	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	CNN	NNP	(TOP(FRAG(NP*)	-	-	-	John_King	(ORG)	(ARG0*)	*	*	(46)
+bc/cnn/00/cnn_0002	17	1	projecting	VBG	(VP*	project	02	1	John_King	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	2	that	IN	(SBAR*	-	-	-	John_King	*	(ARG1*	*	*	-
+bc/cnn/00/cnn_0002	17	3	Tim	NNP	(S(NP(NP*	-	-	-	John_King	(PERSON*	*	(ARG1*	(ARG0*	-
+bc/cnn/00/cnn_0002	17	4	Kaine	NNP	*)	-	-	-	John_King	*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	now	RB	(RRC(ADVP*)	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	the	DT	(NP*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	lieutenant	JJ	*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	governor	NN	*)))	-	-	-	John_King	*	*	*)	*)	-
+bc/cnn/00/cnn_0002	17	9	will	MD	(VP*	-	-	-	John_King	*	*	(ARGM-MOD*)	*	-
+bc/cnn/00/cnn_0002	17	10	be	VB	(VP*	be	01	2	John_King	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	11	the	DT	(NP(NP*	-	-	-	John_King	*	*	(ARG2*	*	-
+bc/cnn/00/cnn_0002	17	12	next	JJ	*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	13	governor	NN	*)	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	14	of	IN	(PP*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	15	Virginia	NNP	(NP*)))	-	-	-	John_King	(GPE)	*	*)	*	(69)
+bc/cnn/00/cnn_0002	17	16	winning	VBG	(S(VP*	win	01	1	John_King	*	*	(ARGM-PRD*	(V*)	-
+bc/cnn/00/cnn_0002	17	17	quite	RB	(ADVP*	-	-	-	John_King	*	*	*	(ARGM-MNR*	-
+bc/cnn/00/cnn_0002	17	18	handily	RB	*)	-	-	-	John_King	*	*	*	*)	-
+bc/cnn/00/cnn_0002	17	19	fifty	CD	(NP(QP*	-	-	-	John_King	(CARDINAL*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	20	-	HYPH	*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	21	two	CD	*	-	-	-	John_King	*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	22	to	TO	*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	23	forty	CD	*	-	-	-	John_King	(PERCENT*	*	*	*	-
+bc/cnn/00/cnn_0002	17	24	-	HYPH	*	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	25	six	CD	*)	-	-	-	John_King	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	26	percent	NN	*)	-	-	-	John_King	*)	*	*	*)	-
+bc/cnn/00/cnn_0002	17	27	over	IN	(PP*	-	-	-	John_King	*	*	*	(ARG3*	-
+bc/cnn/00/cnn_0002	17	28	republican	NNP	(NP*	-	-	-	John_King	(NORP)	*	*	*	-
+bc/cnn/00/cnn_0002	17	29	Jerry	NNP	*	-	-	-	John_King	(PERSON*	*	*	*	-
+bc/cnn/00/cnn_0002	17	30	Kilgore	NNP	*)))))))))	-	-	-	John_King	*)	*)	*)	*)	-
+bc/cnn/00/cnn_0002	17	31	/.	.	*))	-	-	-	John_King	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Also	RB	(TOP(FRAG*	-	-	-	John_King	*	(ARGM-DIS*)	-
+bc/cnn/00/cnn_0002	17	1	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	2	the	DT	(NP(NP*	-	-	-	John_King	*	*	(71
+bc/cnn/00/cnn_0002	17	3	state	NN	*)	state	-	2	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	4	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	5	New	NNP	(NP*	-	-	-	John_King	(GPE*	*	-
+bc/cnn/00/cnn_0002	17	6	Jersey	NNP	*))))	-	-	-	John_King	*)	*)	71)
+bc/cnn/00/cnn_0002	17	7	John	NNP	(NP(NP*	-	-	-	John_King	(PERSON*	(ARG0*	-
+bc/cnn/00/cnn_0002	17	8	Corzine	NNP	*)	-	-	-	John_King	*)	*	-
+bc/cnn/00/cnn_0002	17	9	the	DT	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	10	democrat	NNP	*)	-	-	-	John_King	(NORP)	*	-
+bc/cnn/00/cnn_0002	17	11	with	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	12	fifty	CD	(NP(NP(QP*	-	-	-	John_King	(PERCENT*	*	-
+bc/cnn/00/cnn_0002	17	13	-	HYPH	*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	14	four	CD	*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	15	percent	NN	*)	-	-	-	John_King	*)	*	-
+bc/cnn/00/cnn_0002	17	16	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	17	the	DT	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	18	vote	NN	*))	vote	-	4	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	19	right	RB	(ADVP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	20	now	RB	*))))	-	-	-	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	21	beating	VBG	(VP*	beat	03	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	22	Doug	NNP	(NP(NP*	-	-	-	John_King	(PERSON*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	23	Forrester	NNP	*)	-	-	-	John_King	*)	*	-
+bc/cnn/00/cnn_0002	17	24	the	DT	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	25	republican	NNP	*))	-	-	-	John_King	(NORP)	*)	-
+bc/cnn/00/cnn_0002	17	26	just	RB	(NP(QP*	-	-	-	John_King	(PERCENT*	(ARGM-EXT*	-
+bc/cnn/00/cnn_0002	17	27	forty	CD	*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	28	-	HYPH	*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	29	three	CD	*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	30	percent	NN	*))	-	-	-	John_King	*)	*)	-
+bc/cnn/00/cnn_0002	17	31	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Ninety	CD	(TOP(FRAG(NP(NP(QP*	-	-	-	John_King	(PERCENT*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	-	HYPH	*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	2	one	CD	*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	3	percent	NN	*)	-	-	-	John_King	*)	*	-
+bc/cnn/00/cnn_0002	17	4	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	5	the	DT	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	6	vote	NN	*)))	vote	-	4	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	7	counted	VBN	(VP*	count	01	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	8	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	9	New	NNP	(NP*	-	-	-	John_King	(GPE*	*	(91
+bc/cnn/00/cnn_0002	17	10	Jersey	NNP	*)))	-	-	-	John_King	*)	*)	91)
+bc/cnn/00/cnn_0002	17	11	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Ninety	CD	(TOP(FRAG(NP(NP(QP*	-	-	-	John_King	(PERCENT*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	-	HYPH	*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	2	nine	CD	*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	3	percent	NN	*)	-	-	-	John_King	*)	*	-
+bc/cnn/00/cnn_0002	17	4	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	5	the	DT	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	6	vote	NN	*)))	vote	-	4	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	7	counted	VBN	(VP*	count	01	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	8	now	RB	(ADVP*)	-	-	-	John_King	*	(ARGM-TMP*)	-
+bc/cnn/00/cnn_0002	17	9	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	10	Virginia	NNP	(NP*)))	-	-	-	John_King	(GPE)	*)	(69)
+bc/cnn/00/cnn_0002	17	11	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Two	CD	(TOP(NP(NP*	-	-	-	John_King	(CARDINAL)	*	-
+bc/cnn/00/cnn_0002	17	1	democratic	JJ	*	-	-	-	John_King	(NORP)	*	-
+bc/cnn/00/cnn_0002	17	2	victories	NNS	*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	3	in	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	4	the	DT	(NP(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	5	races	NNS	*)	race	01	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	6	for	IN	(PP*	-	-	-	John_King	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	7	governor	NN	(NP*))))	-	-	-	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	8	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Republican	NNP	(TOP(S(NP*	-	-	-	John_King	(NORP)	(ARG0*	-
+bc/cnn/00/cnn_0002	17	1	Michael	NNP	*	-	-	-	John_King	(PERSON*	*	-
+bc/cnn/00/cnn_0002	17	2	Bloomberg	NNP	*)	-	-	-	John_King	*)	*)	-
+bc/cnn/00/cnn_0002	17	3	will	MD	(VP*	-	-	-	John_King	*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0002	17	4	win	VB	(VP*	win	01	2	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	5	re-election	NN	(NP*)	-	-	-	John_King	*	(ARG1*)	-
+bc/cnn/00/cnn_0002	17	6	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	7	New	NNP	(NP*	-	-	-	John_King	(GPE*	*	-
+bc/cnn/00/cnn_0002	17	8	York	NNP	*))))	-	-	-	John_King	*)	*)	-
+bc/cnn/00/cnn_0002	17	9	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Republicans	NNPS	(TOP(S(NP*)	-	-	-	John_King	(NORP)	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	1	will	MD	(VP*	-	-	-	John_King	*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0002	17	2	celebrate	VB	(VP*	celebrate	01	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	3	that	DT	(NP*)))	-	-	-	John_King	*	(ARG1*)	-
+bc/cnn/00/cnn_0002	17	4	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	That	DT	(TOP(FRAG(NP*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	1	a	DT	(NP(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	2	source	NN	*)	source	-	4	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	3	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	4	frustration	NN	(NP(NP*)	frustration	01	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	5	to	IN	(PP*	-	-	-	John_King	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	6	democrats	NNPS	(NP*)))))	-	-	-	John_King	(NORP)	*)	-
+bc/cnn/00/cnn_0002	17	7	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	How	WRB	(TOP(SBARQ(WHNP(WHADJP*	-	-	-	John_King	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	much	JJ	*))	-	-	-	John_King	*	*	*)	-
+bc/cnn/00/cnn_0002	17	2	does	VBZ	(SQ*	do	01	-	John_King	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	3	this	DT	(NP*)	-	-	-	John_King	*	*	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	4	mean	VB	(VP*	mean	01	5	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	5	nationally	RB	(ADVP*)))	-	-	-	John_King	*	*	(ARGM-LOC*)	-
+bc/cnn/00/cnn_0002	17	6	/?	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	That	DT	(TOP(S(NP(NP*	-	-	-	John_King	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	race	NN	*)	race	01	1	John_King	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	2	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	*	-
+bc/cnn/00/cnn_0002	17	3	New	NNP	(NP*	-	-	-	John_King	(GPE*	*	*	(91
+bc/cnn/00/cnn_0002	17	4	Jeresey	NNP	*)))	-	-	-	John_King	*)	*)	*)	91)
+bc/cnn/00/cnn_0002	17	5	was	VBD	(VP*	be	01	1	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	6	much	RB	(ADJP(ADJP(ADVP*	-	-	-	John_King	*	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	7	more	RBR	*)	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	personally	RB	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	9	nasty	JJ	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	about	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	property	NN	(NP*	property	-	1	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	taxes	NNS	*))))	tax	-	1	John_King	*	*	*)	-
+bc/cnn/00/cnn_0002	17	13	perhaps	RB	(ADVP*)	-	-	-	John_King	*	*	(ARGM-ADV*)	-
+bc/cnn/00/cnn_0002	17	14	than	IN	(PP*	-	-	-	John_King	*	*	(C-ARG2*	-
+bc/cnn/00/cnn_0002	17	15	about	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	16	President	NNP	(NP(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	17	Bush	NNP	*)	-	-	-	John_King	(PERSON)	*	*	-
+bc/cnn/00/cnn_0002	17	18	or	CC	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	19	any	DT	(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	20	national	JJ	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	21	issues	NNS	*)))))	issue	-	1	John_King	*	*	*)	-
+bc/cnn/00/cnn_0002	17	22	/.	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	The	DT	(TOP(FRAG(NP*	-	-	-	John_King	*	*	(114
+bc/cnn/00/cnn_0002	17	1	Virginia	NNP	*	-	-	-	John_King	(GPE)	(ARGM-LOC*)	(69)
+bc/cnn/00/cnn_0002	17	2	race	NN	*)	race	01	1	John_King	*	(V*)	114)
+bc/cnn/00/cnn_0002	17	3	about	IN	(PP(PP*	-	-	-	John_King	*	(ARG3*	-
+bc/cnn/00/cnn_0002	17	4	the	DT	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	5	death	NN	*	death	-	1	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	6	penalty	NN	*))	penalty	-	1	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	7	about	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	8	other	JJ	(NP(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	9	state	NN	*	state	-	2	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	10	issues	NNS	*)	issue	-	1	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	11	as	RB	(ADVP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	12	well	RB	*)	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	13	traffic	NN	(FRAG(NP*)	traffic	-	1	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	14	number	NN	(NP(NP*	number	-	2	John_King	(CARDINAL*	*	-
+bc/cnn/00/cnn_0002	17	15	one	CD	*)	-	-	-	John_King	*)	*	-
+bc/cnn/00/cnn_0002	17	16	among	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	17	them	PRP	(NP*)))))))	-	-	-	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	18	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	But	CC	(TOP(S*	-	-	-	John_King	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	1	the	DT	(NP*	-	-	-	John_King	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	2	democrats	NNPS	*)	-	-	-	John_King	(NORP)	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	3	will	MD	(VP*	-	-	-	John_King	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	4	certainly	RB	(ADVP*)	-	-	-	John_King	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	that	IN	(X(SBAR*	-	-	-	John_King	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	the	DT	(S(NP*	-	-	-	John_King	*	*	(ARG1*	*	*	*	(114
+bc/cnn/00/cnn_0002	17	7	Virginia	NNP	*	-	-	-	John_King	(GPE)	(ARGM-LOC*)	*	*	*	*	(69)
+bc/cnn/00/cnn_0002	17	8	race	NN	*)	race	01	1	John_King	*	(V*)	*)	*	*	*	114)
+bc/cnn/00/cnn_0002	17	9	is	VBZ	(VP*	be	01	1	John_King	*	*	(V*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	proof	NN	(NP*	proof	01	1	John_King	*	*	(ARG2*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	11	that	IN	(SBAR*	-	-	-	John_King	*	*	*	(ARG1*	*	*	-
+bc/cnn/00/cnn_0002	17	12	the	DT	(S(NP*	-	-	-	John_King	*	*	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	13	republican	JJ	*	-	-	-	John_King	(NORP)	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	14	base	NN	*)	base	-	3	John_King	*	*	*	*	*	*)	-
+bc/cnn/00/cnn_0002	17	15	is	VBZ	(VP*	be	03	-	John_King	*	*	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	16	demoralized	VBN	(VP*))))))))))	demoralize	01	-	John_King	*	*	*)	*)	*	(V*)	-
+bc/cnn/00/cnn_0002	17	17	/.	.	*))	-	-	-	John_King	*	*	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	That	DT	(TOP(S(NP*)	-	-	-	John_King	*	*	(ARG1*)	*	*	-
+bc/cnn/00/cnn_0002	17	1	will	MD	(VP*	-	-	-	John_King	*	*	(ARGM-MOD*)	*	*	-
+bc/cnn/00/cnn_0002	17	2	be	VB	(VP*	be	03	-	John_King	*	(V*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	3	studied	VBN	(VP*	study	01	1	John_King	*	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	4	Anderson	NNP	(NP*)	-	-	-	John_King	(PERSON)	*	(ARGM-DIS*)	*	*	(55)
+bc/cnn/00/cnn_0002	17	5	as	IN	(SBAR*	-	-	-	John_King	*	*	(ARGM-TMP*	*	*	-
+bc/cnn/00/cnn_0002	17	6	we	PRP	(S(NP*)	-	-	-	John_King	*	*	*	(ARG0*)	*	-
+bc/cnn/00/cnn_0002	17	7	look	VBP	(VP*	look	01	1	John_King	*	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	8	at	IN	(PP*	-	-	-	John_King	*	*	*	(ARG1*	*	-
+bc/cnn/00/cnn_0002	17	9	these	DT	(NP(NP*	-	-	-	John_King	*	*	*	*	*	(3
+bc/cnn/00/cnn_0002	17	10	off	JJ	(NML*	-	-	-	John_King	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	-	HYPH	*	-	-	-	John_King	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	year	NN	*)	-	-	-	John_King	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	13	elections	NNS	*)	-	-	-	John_King	*	*	*	*	*	3)
+bc/cnn/00/cnn_0002	17	14	and	CC	*	-	-	-	John_King	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	15	how	WRB	(SBAR(WHADVP*	-	-	-	John_King	*	*	*	*	(ARGM-EXT*	-
+bc/cnn/00/cnn_0002	17	16	much	RB	*)	-	-	-	John_King	*	*	*	*	*)	-
+bc/cnn/00/cnn_0002	17	17	they	PRP	(S(NP*)	-	-	-	John_King	*	*	*	*	(ARG0*)	(60)
+bc/cnn/00/cnn_0002	17	18	play	VBP	(VP*	play	01	3	John_King	*	*	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	19	into	IN	(PP*	-	-	-	John_King	*	*	*	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	20	next	JJ	(NP*	-	-	-	John_King	(DATE*	*	*	*	*	(131
+bc/cnn/00/cnn_0002	17	21	year	NN	*)))))))))))))	-	-	-	John_King	*)	*	*)	*)	*)	131)
+bc/cnn/00/cnn_0002	17	22	/.	.	*))	-	-	-	John_King	*	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Many	JJ	(TOP(NP(NP*	-	-	-	John_King	*	(ARGM-EXT*)	(ARG1*	-
+bc/cnn/00/cnn_0002	17	1	state	NN	*	state	-	2	John_King	*	(ARG0*)	*	-
+bc/cnn/00/cnn_0002	17	2	ballot	NN	*	-	-	-	John_King	*	(ARG1*)	*	-
+bc/cnn/00/cnn_0002	17	3	questions	NNS	*)	question	01	1	John_King	*	(V*)	*)	-
+bc/cnn/00/cnn_0002	17	4	that	WDT	(SBAR(WHNP*)	-	-	-	John_King	*	(ARGM-ADJ*	(R-ARG1*)	-
+bc/cnn/00/cnn_0002	17	5	are	VBP	(S(VP*	be	01	1	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	6	of	IN	(PP*	-	-	-	John_King	*	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	7	some	DT	(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	national	JJ	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	9	import	NN	*))	import	-	3	John_King	*	*	*)	-
+bc/cnn/00/cnn_0002	17	10	tonight	NN	(NP*))))	-	-	-	John_King	(TIME)	*)	(ARGM-TMP*)	(45)
+bc/cnn/00/cnn_0002	17	11	/.	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	A	DT	(TOP(NP(NP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	1	anti-gas	JJ	(ADJP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	2	tax	NN	*)	tax	-	1	John_King	*	-
+bc/cnn/00/cnn_0002	17	3	initiative	NN	*)	initiative	-	3	John_King	*	-
+bc/cnn/00/cnn_0002	17	4	in	IN	(PP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	5	Washington	NNP	(NP*	-	-	-	John_King	(GPE)	-
+bc/cnn/00/cnn_0002	17	6	state	NN	*))	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	7	/.	.	*))	-	-	-	John_King	*	-
+
+bc/cnn/00/cnn_0002	17	0	we	PRP	(TOP(S(NP*)	-	-	-	John_King	*	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	1	wo	MD	(VP*	-	-	-	John_King	*	(ARGM-MOD*)	-
+bc/cnn/00/cnn_0002	17	2	n't	RB	*	-	-	-	John_King	*	(ARGM-NEG*)	-
+bc/cnn/00/cnn_0002	17	3	get	VB	(VP*	get	01	1	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	4	the	DT	(NP(NP*	-	-	-	John_King	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	5	results	NNS	*)	result	-	3	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	6	there	RB	(ADVP*))	-	-	-	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	7	until	IN	(PP*	-	-	-	John_King	*	(ARGM-TMP*	-
+bc/cnn/00/cnn_0002	17	8	tomorrow	NN	(NP*))))	-	-	-	John_King	(DATE)	*)	(61)
+bc/cnn/00/cnn_0002	17	9	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	A	DT	(TOP(NP(NP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	1	split	JJ	*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	2	verdict	NN	*)	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	3	if	IN	(PRN(SBAR*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	4	you	PRP	(S(NP*)	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	5	will	MD	(VP*))))	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	6	on	IN	(PP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	7	the	DT	(NP(NP*	-	-	-	John_King	*	(143
+bc/cnn/00/cnn_0002	17	8	issue	NN	*)	issue	-	1	John_King	*	-
+bc/cnn/00/cnn_0002	17	9	of	IN	(PP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	10	gay	JJ	(NP*	-	-	-	John_King	*	-
+bc/cnn/00/cnn_0002	17	11	rights	NNS	*))))	-	-	-	John_King	*	143)
+bc/cnn/00/cnn_0002	17	12	/.	.	*))	-	-	-	John_King	*	-
+
+bc/cnn/00/cnn_0002	17	0	Texas	NNP	(TOP(FRAG(NP*	-	-	-	John_King	(GPE)	(ARG0*	*	-
+bc/cnn/00/cnn_0002	17	1	voters	NNS	*)	-	-	-	John_King	*	*)	*	-
+bc/cnn/00/cnn_0002	17	2	adopting	VBG	(VP*	adopt	01	1	John_King	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	3	a	DT	(NP(NP*	-	-	-	John_King	*	(ARG1*	*	-
+bc/cnn/00/cnn_0002	17	4	Constituional	JJ	*	-	-	-	John_King	(LAW)	*	*	-
+bc/cnn/00/cnn_0002	17	5	amendment	NN	*)	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	to	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	finding	VBG	(S(VP*	find	02	5	John_King	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	8	marriage	NN	(NP*)	marriage	-	1	John_King	*	*	(ARG1*)	-
+bc/cnn/00/cnn_0002	17	9	as	IN	(PP*	-	-	-	John_King	*	*	(ARGM-ADV*	-
+bc/cnn/00/cnn_0002	17	10	between	IN	(PP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	a	DT	(NP*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	man	NN	*	man	-	1	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	13	and	CC	*	-	-	-	John_King	*	*	*	-
+bc/cnn/00/cnn_0002	17	14	woman	NN	*))))))))	woman	-	1	John_King	*	*)	*)	-
+bc/cnn/00/cnn_0002	17	15	/.	.	*))	-	-	-	John_King	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	but	CC	(TOP(FRAG*	-	-	-	John_King	*	(ARGM-DIS*)	-
+bc/cnn/00/cnn_0002	17	1	supporters	NNS	(NP(NP*)	-	-	-	John_King	*	(ARG0*	-
+bc/cnn/00/cnn_0002	17	2	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	3	gay	JJ	(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	4	rights	NNS	*)))	-	-	-	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	5	winning	VBG	(VP*	win	01	2	John_King	*	(V*)	-
+bc/cnn/00/cnn_0002	17	6	a	DT	(NP*	-	-	-	John_King	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	7	referendum	NN	*)	-	-	-	John_King	*	*)	-
+bc/cnn/00/cnn_0002	17	8	in	IN	(PP*	-	-	-	John_King	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	9	the	DT	(NP(NP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	10	state	NN	*)	state	-	2	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	11	of	IN	(PP*	-	-	-	John_King	*	*	-
+bc/cnn/00/cnn_0002	17	12	Maine	NNP	(NP*)))))	-	-	-	John_King	(GPE)	*)	-
+bc/cnn/00/cnn_0002	17	13	/.	.	*))	-	-	-	John_King	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	That	DT	(TOP(S(NP*)	-	-	-	John_King	*	(ARG1*)	*	*	*	*	*	(143)
+bc/cnn/00/cnn_0002	17	1	is	VBZ	(VP*	be	01	2	John_King	*	(V*)	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	2	something	NN	(NP(NP*)	something	-	4	John_King	*	(ARG2*	(ARG1*)	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	3	to	TO	(SBAR(S(VP*	-	-	-	John_King	*	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	4	watch	VB	(VP*)))))	watch	01	1	John_King	*	*)	(V*)	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	5	heading	VBG	(S(VP*	head	02	1	John_King	*	(ARGM-ADV*	*	(V*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	6	into	IN	(PP*	-	-	-	John_King	*	*	*	(ARG1*	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	next	JJ	(NP*	-	-	-	John_King	(DATE*	*	*	*	*	*	*	(131
+bc/cnn/00/cnn_0002	17	8	year	NN	*))	-	-	-	John_King	*)	*	*	*)	*	*	*	131)
+bc/cnn/00/cnn_0002	17	9	as	RB	(ADVP*	-	-	-	John_King	*	*	*	(ARGM-ADV*	*	*	*	-
+bc/cnn/00/cnn_0002	17	10	well	RB	*)))	-	-	-	John_King	*	*)	*	*)	*	*	*	-
+bc/cnn/00/cnn_0002	17	11	because	IN	(SBAR*	-	-	-	John_King	*	(ARGM-CAU*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	12	republicans	NNS	(S(NP*)	-	-	-	John_King	(NORP)	*	*	*	(ARG0*)	*	*	-
+bc/cnn/00/cnn_0002	17	13	think	VBP	(VP*	think	01	1	John_King	*	*	*	*	(V*)	*	*	-
+bc/cnn/00/cnn_0002	17	14	that	DT	(SBAR(S(NP*)	-	-	-	John_King	*	*	*	*	(ARG1*	(ARG0*)	(ARG0*)	(143)
+bc/cnn/00/cnn_0002	17	15	helps	VBZ	(VP*	help	01	1	John_King	*	*	*	*	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	16	increase	VB	(S(VP*	increase	01	1	John_King	*	*	*	*	*	(ARG1*	(V*)	-
+bc/cnn/00/cnn_0002	17	17	turnout	NN	(NP(NP*)	-	-	-	John_King	*	*	*	*	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	18	among	IN	(PP*	-	-	-	John_King	*	*	*	*	*	*	*	-
+bc/cnn/00/cnn_0002	17	19	conservatives	NNS	(NP*))))))))))))	-	-	-	John_King	*	*)	*	*	*)	*)	*)	-
+bc/cnn/00/cnn_0002	17	20	/.	.	*))	-	-	-	John_King	*	*	*	*	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	And	CC	(TOP(FRAG*	-	-	-	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	1	ballots	NNS	(NP*)	-	-	-	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	2	of	IN	(PP*	-	-	-	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	3	course	NN	(NP*))	course	-	13	Anderson_Cooper	*	-
+bc/cnn/00/cnn_0002	17	4	/.	.	*))	-	-	-	Anderson_Cooper	*	-
+
+bc/cnn/00/cnn_0002	17	0	Uh	UH	(TOP(S(INTJ*)	-	-	-	Anderson_Cooper	*	(ARGM-DIS*)	-
+bc/cnn/00/cnn_0002	17	1	the	DT	(NP*	-	-	-	Anderson_Cooper	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	2	polls	NNS	*)	-	-	-	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	3	are	VBP	(VP*	be	01	1	Anderson_Cooper	*	(V*)	-
+bc/cnn/00/cnn_0002	17	4	still	RB	(ADVP*)	-	-	-	Anderson_Cooper	*	(ARGM-TMP*)	-
+bc/cnn/00/cnn_0002	17	5	open	JJ	(ADJP*)	-	-	-	Anderson_Cooper	*	(ARG2*)	-
+bc/cnn/00/cnn_0002	17	6	in	IN	(PP*	-	-	-	Anderson_Cooper	*	(ARGM-LOC*	-
+bc/cnn/00/cnn_0002	17	7	California	NNP	(NP*)))	-	-	-	Anderson_Cooper	(GPE)	*)	-
+bc/cnn/00/cnn_0002	17	8	/.	.	*))	-	-	-	Anderson_Cooper	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	so	RB	(TOP(S(ADVP*)	-	-	-	Anderson_Cooper	*	*	(ARGM-DIS*)	-
+bc/cnn/00/cnn_0002	17	1	we	PRP	(NP*)	-	-	-	Anderson_Cooper	*	*	(ARG0*)	-
+bc/cnn/00/cnn_0002	17	2	do	VBP	(VP*	do	01	-	Anderson_Cooper	*	(V*)	*	-
+bc/cnn/00/cnn_0002	17	3	n't	RB	*	-	-	-	Anderson_Cooper	*	*	(ARGM-NEG*)	-
+bc/cnn/00/cnn_0002	17	4	know	VB	(VP*	know	01	1	Anderson_Cooper	*	*	(V*)	-
+bc/cnn/00/cnn_0002	17	5	about	IN	(PP*	-	-	-	Anderson_Cooper	*	*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	6	the	DT	(NP(NP*	-	-	-	Anderson_Cooper	*	*	*	-
+bc/cnn/00/cnn_0002	17	7	ballot	NN	*	-	-	-	Anderson_Cooper	*	*	*	-
+bc/cnn/00/cnn_0002	17	8	initiatives	NNS	*)	initiative	-	3	Anderson_Cooper	*	*	*	-
+bc/cnn/00/cnn_0002	17	9	there	RB	(ADVP*)))))	-	-	-	Anderson_Cooper	*	*	*)	-
+bc/cnn/00/cnn_0002	17	10	/.	.	*))	-	-	-	Anderson_Cooper	*	*	*	-
+
+bc/cnn/00/cnn_0002	17	0	Is	VBZ	(TOP(SQ*	be	01	1	Anderson_Cooper	*	(V*)	-
+bc/cnn/00/cnn_0002	17	1	Arnold	NNP	(NP(NP*	-	-	-	Anderson_Cooper	(PERSON*	(ARG1*	-
+bc/cnn/00/cnn_0002	17	2	Schwarzenegger	NNP	*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	3	's	POS	*)	-	-	-	Anderson_Cooper	*)	*	-
+bc/cnn/00/cnn_0002	17	4	reputation	NN	*)	reputation	-	1	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	5	on	IN	(PP*	-	-	-	Anderson_Cooper	*	(ARG2*	-
+bc/cnn/00/cnn_0002	17	6	these	DT	(NP*	-	-	-	Anderson_Cooper	*	*	-
+bc/cnn/00/cnn_0002	17	7	ballots	NNS	*))	-	-	-	Anderson_Cooper	*	*)	-
+bc/cnn/00/cnn_0002	17	8	/?	.	*))	-	-	-	Anderson_Cooper	*	*	-
+#end document

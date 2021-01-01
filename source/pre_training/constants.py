@@ -1,0 +1,6 @@
+MAX_SEQ_LEN = 512
+MAX_NUM_PREDICTIONS = 256
+MAX_CLASSES = 128
+
+BERT_MODEL_NAME = "cased_L-12_H-768_A-12"
+BERT_MODEL_HUB = f"https://tfhub.dev/google/bert_{BERT_MODEL_NAME}/1"

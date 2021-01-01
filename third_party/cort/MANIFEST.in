@@ -1,0 +1,15 @@
+include cort/resources/*
+include cort/config_files/*
+include cort/analysis/visualization/*
+include cort/analysis/visualization/lib/*
+include cort/coreference/perceptrons.pyx
+include stanford_corenlp_pywrapper/rcorenlp.r
+include stanford_corenlp_pywrapper/lib/*
+include stanford_corenlp_pywrapper/javasrc/corenlp/*
+include stanford_corenlp_pywrapper/javasrc/util/misc/*
+include stanford_corenlp_pywrapper/javasrc/util/*
+include cort/reference-coreference-scorers/v8.01/*
+include cort/reference-coreference-scorers/v8.01/lib/*
+include cort/reference-coreference-scorers/v8.01/lib/Algorithm/*
+include cort/reference-coreference-scorers/v8.01/lib/Data/*
+include cort/reference-coreference-scorers/v8.01/lib/Math/*

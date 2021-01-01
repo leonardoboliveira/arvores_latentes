@@ -1,0 +1,9 @@
+nltk>=3.0.1
+numpy
+matplotlib
+mmh3
+cython
+future
+jpype1
+beautifulsoup4
+pystanforddependencies>=0.3.1

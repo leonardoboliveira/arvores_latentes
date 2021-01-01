@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90bd6770-2439-4ef7-9823-03a3e8d2c19b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/Users/loliveira/PycharmProjects/SpanBERT" />
+  </component>
+  <component name="ProjectId" id="1PEpkaWwICBTwWcYzJWtc6y54nk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/analysis" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Code" is-module-sdk="true">
+        <envs>
+          <env key="JAVA_HOME" value="D:\zulu11.33.15-ca-jdk11.0.4-win_x64\zulu11.33.15-ca-jdk11.0.4-win_x64" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Code" />
+        <option name="myEnvs">
+          <map>
+            <entry key="JAVA_HOME" value="D:\zulu11.33.15-ca-jdk11.0.4-win_x64\zulu11.33.15-ca-jdk11.0.4-win_x64" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\source\analysis" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\source\data_handling" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\scripts\bash" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\scripts\bat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\source\analysis" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\source\extension" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\source\evaluations" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\scripts\bash" />
+      <recent name="D:\GDrive\Puc\Projeto Final\Code\notebooks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.check_outputs_raw">
+    <configuration name="calc_conll" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/evaluations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/evaluations/calc_conll.py" />
+      <option name="PARAMETERS" value="D:\ProjetoFinal\output\baseline.out" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_cluster_sizes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/analysis/check_cluster_sizes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_cort_errors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="ARQUIVO" value="123123" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/analysis/check_cort_errors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_mention_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/analysis/check_mention_distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_outputs_raw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/analysis/check_outputs_raw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cort-predict-conll - casa" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="D:/ProjetoFinal/output/predict.out" is_save="true" />
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="BERT_DB_PATH" value="D:\ProjetoFinal\data\train\spanbert" />
+        <env name="MAX_DISTANCE" value="40" />
+        <env name="PICKLED_PATH" value="D:\ProjetoFinal\data\pickle" />
+        <env name="JAVA_HOME" value="C:\Program Files\Java\jdk-13.0.2" />
+        <env name="BINS_FILE" value="D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_span.csv" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_party/cort/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_party/cort/bin/cort-predict-conll" />
+      <option name="PARAMETERS" value="-in &quot;D:\ProjetoFinal\data\debug\train.conll.test.0&quot; -model &quot;D:\ProjetoFinal\models\bins_span_bert.obj&quot; -out &quot;D:\ProjetoFinal\output\now.predicted&quot; -extractor extension.antecedent_trees.extract_substructures_limited -perceptron extension.antecedent_trees.AntecedentTreePerceptron -clusterer extension.clusterer.all_ante -features &quot;D:\GDrive\Puc\Projeto Final\Code\extra_files\features.txt&quot; -ante &quot;D:\ProjetoFinal\output\now.ante&quot; -instance_extractor extension.instance_extractors.InstanceExtractor" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cort-predict-conll -teste" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="Z:/temp/predict.out" is_save="true" />
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="BERT_DB_PATH" value="C:\Users\loliveira\Desktop\span" />
+        <env name="MAX_DISTANCE" value="40" />
+        <env name="PICKLED_PATH" value="D:\ProjetoFinal\data\pickle" />
+        <env name="BINS_FILE" value="D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_span.csv" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_party/cort/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_party/cort/bin/cort-predict-conll" />
+      <option name="PARAMETERS" value="-in &quot;z:\temp\teste.conll&quot; -model &quot;z:\temp\model.obj&quot; -out &quot;Z:\temp\test.predicted&quot; -clusterer cort.coreference.clusterer.all_ante -features &quot;z:\temp\features.txt&quot; -ante &quot;z:\temp\test.ante&quot; -extractor extension.antecedent_trees.extract_substructures_limited -perceptron extension.antecedent_trees.AntecedentTreePerceptron -instance_extractor extension.instance_extractors.InstanceExtractor" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cort-predict-conll" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="Z:/temp/predict.out" is_save="true" />
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="BERT_DB_PATH" value="C:\Users\loliveira\Desktop\span" />
+        <env name="MAX_DISTANCE" value="40" />
+        <env name="PICKLED_PATH" value="D:\ProjetoFinal\data\pickle" />
+        <env name="BINS_FILE" value="D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_span.csv" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_party/cort/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_party/cort/bin/cort-predict-conll" />
+      <option name="PARAMETERS" value="-in &quot;D:\ProjetoFinal\data\debug\teste.conll&quot; -model &quot;D:\ProjetoFinal\model\model.obj&quot; -out &quot;Z:\temp\test.predicted&quot; -clusterer cort.coreference.clusterer.all_ante -features &quot;D:\GDrive\Puc\Projeto Final\Code\extra_files\features.txt&quot; -ante &quot;z:\temp\test.ante&quot; -extractor extension.antecedent_trees.extract_substructures_limited -perceptron extension.antecedent_trees.AntecedentTreePerceptron -instance_extractor extension.instance_extractors.InstanceExtractor" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cort-train  - casa" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="Z:/temp/cort-train.out" is_save="true" />
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="BERT_DB_PATH" value="D:\ProjetoFinal\data\train\sliding" />
+        <env name="BINS_FILE" value="D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_sliding.csv" />
+        <env name="MAX_DISTANCE" value="40" />
+        <env name="PICKLED_PATH" value="D:\ProjetoFinal\pickle\sliding" />
+        <env name="SKIPSKIP_FEATURE_INDUCTION" value="1" />
+        <env name="JAVA_HOME" value="C:\Program Files\Java\jdk-13.0.2" />
+        <env name="MKL_THREADING_LAYER" value="GPU" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_party/cort/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_party/cort/bin/cort-train" />
+      <option name="PARAMETERS" value="-features &quot;D:\GDrive\Puc\Projeto Final\Code\extra_files\features.txt&quot; -in &quot;D:\ProjetoFinal\data\train\conll\train.conll.train.0&quot; -out &quot;D:\ProjetoFinal\model\sliding.model&quot; -extractor extension.antecedent_trees.extract_substructures_limited -perceptron extension.antecedent_trees.AntecedentTreePerceptron -cost_function cort.coreference.cost_functions.cost_based_on_consistency -instance_extractor extension.instance_extractors.InstanceExtractor -n_iter 50" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cort-train" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="Z:/temp/cort-train.out" is_save="true" />
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="BERT_DB_PATH" value="C:\Users\loliveira\Desktop\span" />
+        <env name="VOCAB_FILE" value="D:\GDrive\Puc\Projeto Final\Code\extra_files\head_vocab.txt" />
+        <env name="BINS_FILE" value="D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_span.csv" />
+        <env name="MAX_DISTANCE" value="40" />
+        <env name="PICKLED_PATH" value="D:\ProjetoFinal\data\pickle" />
+        <env name="ENCODER_MODEL" value="D:\ProjetoFinal\model\encoder_40_diagonal.h5" />
+        <env name="FULL_MODEL" value="D:\ProjetoFinal\model\model_40_diagonal.h5" />
+        <env name="SKIP_FEATURE_INDUCTION" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_party/cort/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_party/cort/bin/cort-train" />
+      <option name="PARAMETERS" value="-features &quot;D:\GDrive\Puc\Projeto Final\Code\extra_files\features.txt&quot; -in &quot;D:\ProjetoFinal\data\debug\train.conll.train.0&quot; -out &quot;D:\ProjetoFinal\model\test.model&quot; -extractor extension.antecedent_trees.extract_substructures_limited -perceptron extension.antecedent_trees.AntecedentTreePerceptron -cost_function cort.coreference.cost_functions.cost_based_on_consistency -instance_extractor extension.instance_extractors.InstanceExtractor -n_iter 50" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_bert_embeddings" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/pre_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_handling/create_bert_embeddings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_bert_ts" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/pre_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\GDrive\Puc\Projeto Final\Code\source\data_handling\create_bert_ts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_custom_vocab" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/pre_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\GDrive\Puc\Projeto Final\Code\source\data_handling\create_custom_vocab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset_to_tfrecord" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/pre_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/pre_training/dataset_to_tfrecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluate_inter_cluster_sizes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/evaluations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/evaluations/evaluate_inter_cluster_sizes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluate_model" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/evaluations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/evaluations/evaluate_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fine_tune_bert" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/pre_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/pre_training/fine_tune_bert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_pretraining" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/training/run_pretraining.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split_encoded_file" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_handling/split_encoded_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_fine_tune" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DEBUG" value="1" />
+        <env name="JAVA_HOME" value="C:\Program Files\Java\jdk-13.0.2" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/pre_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/pre_training/train_fine_tune.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.calc_conll" />
+      <item itemvalue="Python.cort-predict-conll - casa" />
+      <item itemvalue="Python.cort-predict-conll -teste" />
+      <item itemvalue="Python.cort-predict-conll" />
+      <item itemvalue="Python.cort-train  - casa" />
+      <item itemvalue="Python.cort-train" />
+      <item itemvalue="Python.create_bert_embeddings" />
+      <item itemvalue="Python.create_bert_ts" />
+      <item itemvalue="Python.create_custom_vocab" />
+      <item itemvalue="Python.dataset_to_tfrecord" />
+      <item itemvalue="Python.evaluate_model" />
+      <item itemvalue="Python.fine_tune_bert" />
+      <item itemvalue="Python.run_pretraining" />
+      <item itemvalue="Python.split_encoded_file" />
+      <item itemvalue="Python.train_fine_tune" />
+      <item itemvalue="Python.check_cluster_sizes" />
+      <item itemvalue="Python.check_cort_errors" />
+      <item itemvalue="Python.check_mention_distance" />
+      <item itemvalue="Python.check_outputs_raw" />
+      <item itemvalue="Python.evaluate_inter_cluster_sizes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.check_outputs_raw" />
+        <item itemvalue="Python.check_cort_errors" />
+        <item itemvalue="Python.check_mention_distance" />
+        <item itemvalue="Python.evaluate_inter_cluster_sizes" />
+        <item itemvalue="Python.check_cluster_sizes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90bd6770-2439-4ef7-9823-03a3e8d2c19b" name="Default Changelist" comment="" />
+      <created>1565449253098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565449253098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582115403726">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="275" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581471570445" />
+    <state x="2126" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578798125431" />
+    <state x="206" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582115403726" />
+    <state x="348" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581615695976" />
+    <state x="400" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582116026405">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="400" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582116026405" />
+    <state x="1949" y="200" width="727" height="592" key="#xdebugger.evaluate" timestamp="1581708902187">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state x="1933" y="97" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581099612626" />
+    <state x="1949" y="200" width="727" height="592" key="#xdebugger.evaluate/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1581708902187" />
+    <state x="69" y="61" width="1065" height="595" key="#xdebugger.evaluate/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581535355485" />
+    <state x="696" y="285" key="EnvironmentVariablesDialog" timestamp="1582115403294">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="928" y="345" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581471483966" />
+    <state x="2616" y="285" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1578798125019" />
+    <state x="696" y="285" key="EnvironmentVariablesDialog/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582115403294" />
+    <state x="2136" y="285" key="EnvironmentVariablesDialog/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581615694249" />
+    <state x="573" y="220" key="FileChooserDialogImpl" timestamp="1580776333597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="220" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1580776333597" />
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1582744228322">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581472275410" />
+    <state width="1419" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1581098418424" />
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582233284969" />
+    <state width="1419" height="315" key="GridCell.Tab.0.bottom/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1582744228322" />
+    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1582744228322">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581472275410" />
+    <state width="1419" height="355" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1581098418423" />
+    <state width="1419" height="315" key="GridCell.Tab.0.center/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582233284969" />
+    <state width="1419" height="315" key="GridCell.Tab.0.center/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1582744228322" />
+    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1582744228322">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581472275410" />
+    <state width="1419" height="355" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1581098418423" />
+    <state width="1419" height="315" key="GridCell.Tab.0.left/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582233284969" />
+    <state width="1419" height="315" key="GridCell.Tab.0.left/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1582744228322" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1582744228322">
+      <screen x="1440" y="0" width="1440" height="860" />
+    </state>
+    <state width="1899" height="359" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581472275410" />
+    <state width="1419" height="355" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1581098418423" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582233284969" />
+    <state width="1419" height="315" key="GridCell.Tab.0.right/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1582744228322" />
+    <state width="1434" height="826" key="GridCell.Tab.1.bottom" timestamp="1582025165087">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1914" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581464687746" />
+    <state width="1434" height="826" key="GridCell.Tab.1.bottom/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582025165087" />
+    <state width="1434" height="826" key="GridCell.Tab.1.bottom/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581535371331" />
+    <state width="1434" height="826" key="GridCell.Tab.1.center" timestamp="1582025165087">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1914" height="354" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581464687746" />
+    <state width="1434" height="826" key="GridCell.Tab.1.center/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582025165087" />
+    <state width="1434" height="826" key="GridCell.Tab.1.center/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581535371331" />
+    <state width="1434" height="826" key="GridCell.Tab.1.left" timestamp="1582025165087">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1914" height="354" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581464687746" />
+    <state width="1434" height="826" key="GridCell.Tab.1.left/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582025165087" />
+    <state width="1434" height="826" key="GridCell.Tab.1.left/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581535371331" />
+    <state width="1434" height="826" key="GridCell.Tab.1.right" timestamp="1582025165087">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1914" height="354" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581464687746" />
+    <state width="1434" height="826" key="GridCell.Tab.1.right/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582025165087" />
+    <state width="1434" height="826" key="GridCell.Tab.1.right/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581535371331" />
+    <state x="295" y="88" key="SettingsEditor" timestamp="1580776357989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="88" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1580776357989" />
+    <state x="221" y="73" key="SettingsEditor/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1579036950942" />
+    <state x="1661" y="73" key="SettingsEditor/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1578324411438" />
+    <state width="728" height="438" key="XDebugger.FullValuePopup" timestamp="1579192057201">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="728" height="438" key="XDebugger.FullValuePopup/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1579192057201" />
+    <state width="728" height="438" key="XDebugger.FullValuePopup/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1576858749030" />
+    <state x="92" y="92" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578575948817">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="92" y="92" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1578575948817" />
+    <state x="416" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1582318528612">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="2336" y="253" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581470711653" />
+    <state x="2336" y="253" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1440.860@1920.0.1440.860" timestamp="1581876068322" />
+    <state x="416" y="253" key="com.intellij.ide.util.TipDialog/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582318528612" />
+    <state x="1856" y="253" key="com.intellij.ide.util.TipDialog/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581594472483" />
+    <state x="2336" y="265" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1440.900@1920.0.1440.900" timestamp="1579460634683" />
+    <state x="0" y="92" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579122316847">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="92" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1579122316846" />
+    <state x="1440" y="92" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1577466057479" />
+    <state x="351" y="132" width="737" height="606" key="find.popup" timestamp="1582213998043">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="468" y="160" width="983" height="733" key="find.popup/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581300591748" />
+    <state x="351" y="132" width="737" height="606" key="find.popup/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582213998043" />
+    <state x="1791" y="132" width="737" height="606" key="find.popup/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1578482679414" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1582214001365">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="511" y="218" width="896" height="820" key="search.everywhere.popup/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1581281484117" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/1440.0.1440.860/0.0.1440.860@0.0.1440.860" timestamp="1582214001365" />
+    <state x="1823" y="180" width="672" height="678" key="search.everywhere.popup/1440.0.1440.860/0.0.1440.860@1440.0.1440.860" timestamp="1581374569650" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/pre_training/train_fine_tune.py</url>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/venvs/projeto/Lib/site-packages/StanfordDependencies/StanfordDependencies.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/venvs/projeto/Lib/site-packages/StanfordDependencies/StanfordDependencies.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/venvs/projeto/Lib/site-packages/StanfordDependencies/StanfordDependencies.py</url>
+          <line>256</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/projeto/Lib/site-packages/StanfordDependencies/SubprocessBackend.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda3/envs/projeto/Lib/site-packages/StanfordDependencies/SubprocessBackend.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Users/loliveira/PycharmProjects/proposta/venv/Lib/site-packages/bert_serving/server/graph.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Users/loliveira/PycharmProjects/proposta/venv/Lib/site-packages/StanfordDependencies/JPypeBackend.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/evaluations/evaluate_model.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/tests/test_create_spacy_embeddings.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/third_party/bert/modeling.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/pre_training/train_mention_embedding.py</url>
+          <line>255</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/data_handling/pickle_document_information.py</url>
+          <line>395</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/data_handling/pickle_document_information.py</url>
+          <line>390</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/data_handling/split_train_test_conll.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Users/loliveira/PycharmProjects/proposta/venv/Lib/site-packages/bert_serving/server/__init__.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/data_handling/create_bert_embeddings.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/extension/antecedent_trees.py</url>
+          <line>253</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/analysis/check_outputs.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/extension/bert_features.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="parents" />
+        <watch expression="arc_information[][0][1]" />
+        <watch expression="iter_csv" />
+        <watch expression="pairwise_features" />
+        <watch expression="antecedents[3]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
