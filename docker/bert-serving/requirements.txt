@@ -1,0 +1,5 @@
+bert-serving-client
+bert-serving-server
+tqdm
+bert-tensorflow
+tensorflow-hub

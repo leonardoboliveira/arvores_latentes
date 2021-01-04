@@ -211,20 +211,24 @@ class Line:
         return empty
 
 
-def get_documents(file_in, tokenizer, folder_to_check):
-    train_list = train_file_to_list(file_in)
-    document = None
-    for line in tqdm(train_list, "Reading"):
-        if "#begin" in line:
-            document = Document(tokenizer, line)
-            continue
-        if "#end" in line:
-            if not document.file_exists(folder_to_check):
-                yield document
+def get_documents(folder_in, tokenizer, folder_to_check):
+    for root, dirs, files in os.walk(folder_in):
+        for file_in in files:
+            if file_in[:-5] != "conll":
+                continue
+            train_list = train_file_to_list(file_in)
             document = None
-            continue
-        if document is not None:
-            document.add_line(line)
+            for line in tqdm(train_list, "Reading"):
+                if "#begin" in line:
+                    document = Document(tokenizer, line)
+                    continue
+                if "#end" in line:
+                    if not document.file_exists(folder_to_check):
+                        yield document
+                    document = None
+                    continue
+                if document is not None:
+                    document.add_line(line)
 
 
 class MyRunner:
@@ -283,13 +287,15 @@ def build_server_flags(model_dir, ckpt_name):
 
 if __name__ == "__main__":
     model_dir = r"D:\GDrive\Puc\Projeto Final\models\spanbert_large"
-    f_in = r"D:\GDrive\Puc\Projeto Final\Datasets\conll\test.conll"
+    f_in = r"D:\GDrive\Puc\Projeto Final\Datasets\conll\test"
     f_out = r"D:\ProjetoFinal\data\test\spanbert"
+    tag = "span"
+    model_name = "mode.max.ckpt"
 
-    if len(sys.argv) == 4:
-        _, model_dir, f_in, f_out = sys.argv
+    if len(sys.argv) == 6:
+        _, model_dir, model_name, f_in, f_out, tag = sys.argv
 
-    server = start_server(build_server_flags(model_dir, "model.max.ckpt"))
-    create_embedding(f_in, f_out, "span")
+    server = start_server(build_server_flags(model_dir, model_name))
+    create_embedding(f_in, f_out, tag)
 
     server.close()
