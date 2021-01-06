@@ -11,10 +11,12 @@ tqdm
 spacy
 pandas
 numpy
-tensorflow
 scikit-learn
 bert-tensorflow
 spacy>=2.2.1
 compress_pickle
 bert-serving-client
 bert-serving-server
+bert-tensorflow==1.0.1
+tensorflow-hub
+tensorflow<2

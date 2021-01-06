@@ -17,6 +17,11 @@ logging.basicConfig(level=logging.DEBUG)
 EMBEDDING_SIZE = 1024
 
 
+def imap_unordered(fn, list):
+    for item in list:
+        yield fn(item)
+
+
 def divide_chunks(l, n):
     # looping till length l
     for i in range(0, len(l), n):
@@ -214,9 +219,9 @@ class Line:
 def get_documents(folder_in, tokenizer, folder_to_check):
     for root, dirs, files in os.walk(folder_in):
         for file_in in files:
-            if file_in[:-5] != "conll":
+            if file_in[-5:] != "conll":
                 continue
-            train_list = train_file_to_list(file_in)
+            train_list = train_file_to_list(root + "/" + file_in)
             document = None
             for line in tqdm(train_list, "Reading"):
                 if "#begin" in line:
@@ -245,10 +250,16 @@ def create_embedding(file_in, folder_out, suffix):
     print("Building tokenizer")
     tokenizer = create_tokenizer_from_hub_module()
     print("Waiting for BertServer")
+    if server.is_ready:
+        print("BertServer ready")
+    else:
+        print("BertServer not ready")
+
     documents = get_documents(file_in, tokenizer, folder_out)
 
+    print("Doc generator ready")
     with multiprocessing.Pool() as pool:
-        for doc in pool.imap_unordered(MyRunner(tokenizer), documents):
+        for doc in imap_unordered(MyRunner(tokenizer), documents):
             with doc.open_file(folder_out, suffix) as f:
                 f.write(Line.empty_line(word="#begin") + "\n")
                 doc.write(f)
@@ -277,7 +288,7 @@ def build_server_flags(model_dir, ckpt_name):
 
     if "DEBUG" not in os.environ:
         params += ["-cpu"]
-        params += ["-num_worker", str(int(os.cpu_count() * 0.3))]
+        params += ["-num_worker", str(max(1, int(os.cpu_count() * 0.3)))]
 
     if "TMPDIR" in os.environ:
         params += ["-graph_tmp_dir", os.environ["TMPDIR"]]
@@ -287,10 +298,11 @@ def build_server_flags(model_dir, ckpt_name):
 
 if __name__ == "__main__":
     model_dir = r"D:\GDrive\Puc\Projeto Final\models\spanbert_large"
-    f_in = r"D:\GDrive\Puc\Projeto Final\Datasets\conll\test"
-    f_out = r"D:\ProjetoFinal\data\test\spanbert"
+    # f_in = r"D:\GDrive\Puc\Projeto Final\Datasets\conll\train"
+    f_in = "d:/gdrive/puc/projeto final/Datasets/conll/train/data/english/annotations/bc/cctv/00/"
+    f_out = r"D:\ProjetoFinal\data\train\spanbert"
     tag = "span"
-    model_name = "mode.max.ckpt"
+    model_name = "model.max.ckpt"
 
     if len(sys.argv) == 6:
         _, model_dir, model_name, f_in, f_out, tag = sys.argv
@@ -298,4 +310,13 @@ if __name__ == "__main__":
     server = start_server(build_server_flags(model_dir, model_name))
     create_embedding(f_in, f_out, tag)
 
+    print("All files encoded. Shuttind down server")
+    # Close not working properly. Only way to exit is by force
     server.close()
+    print("Closed")
+    exit(0)
+
+    # print("All files encoded. Shuttind down server")
+    # server.timeout = 1
+    # server.ip = '127.0.0.1'
+    # server.shutdown(server)

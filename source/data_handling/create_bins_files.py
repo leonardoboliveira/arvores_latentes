@@ -6,6 +6,7 @@ import matplotlib.ticker as mtick
 from scipy.interpolate import interp1d
 import os
 import pickle
+import sys
 
 
 def get_frequencies(file_name, bins):
@@ -18,7 +19,7 @@ def get_frequencies(file_name, bins):
             continue
         # print(f"{df.shape} {len(bins)}")
         assert max(bins) >= df.max().max(), f"Max in bins:{max(bins)}, max in df: {df.max().max()}"
-        assert min(bins) <= df.min().min(), f"Min in bins:{max(bins)}, min in df: {df.min().min()}"
+        assert min(bins) <= df.min().min(), f"Min in bins:{min(bins)}, min in df: {df.min().min()}"
 
         ret = df.apply(lambda x: np.histogram(x, bins=bins)[0], axis=0).reset_index(drop=True)
 
@@ -92,11 +93,9 @@ def plot_hist(counts, detail_bins):
 
 
 def get_distribution(files, total_bins):
-    detail_bins = np.arange(-5, 5, 0.001)
+    detail_bins = np.arange(-20, 20, 0.001)
     frequencies = get_frequencies_for_all(files, detail_bins)
-    with open(r"z:\temp\frequencies.dmp", "wb") as f:
-        pickle.dump(frequencies, f)
-    # plot_hist(frequencies[[2, 385, 700]], detail_bins)
+
     acc_frequencies = frequencies / frequencies.sum()
     acc_frequencies = acc_frequencies.cumsum()
     values = []
@@ -118,8 +117,15 @@ def get_files(path):
 
 if __name__ == "__main__":
     # files = [r"C:\Users\loliveira\Desktop\train.span"]
-    dist = get_distribution(get_files(r"D:\ProjetoFinal\data\train\glove"), 10)
-    # np.savetxt(r"D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_span.csv", dist, delimiter=",")
-    # np.savetxt(r"d:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_glove5.csv", dist, delimiter=",")
-    plt.plot(dist.transpose())
-    plt.show()
+    f_in = r"D:\ProjetoFinal\data\train\spanbert"
+    f_out = r"D:\GDrive\Puc\Projeto Final\Code\extra_files\deciles_span.csv"
+
+    if len(sys.argv) == 3:
+        _, f_in, f_out = sys.argv
+
+    dist = get_distribution(get_files(f_in), 10)
+    np.savetxt(f_out, dist, delimiter=",")
+
+    if "DEBUG" in os.environ:
+        plt.plot(dist.transpose())
+        plt.show()

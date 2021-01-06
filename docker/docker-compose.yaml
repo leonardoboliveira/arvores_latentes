@@ -1,16 +1,20 @@
 services:
-  encode-conll:
-    build: ./bert-serving
+  comum:
+    build: .
+    environment:
+      - PYTHONPATH=/code
     env_file:
       ./.env
     volumes:
       - ${PROJECT_DIR}/source/data_handling:/code/data_handling
       - ${PROJECT_DIR}/source/pre_training:/code/pre_training
-      - ${PROJECT_DIR}/scripts:/code/scripts
+      - ${PROJECT_DIR}/scripts/bash:/code/scripts
       - ${CONLL_ORIGINAL_FILES}:/data/conll
       - ${ENCODED_FILES}:/data/encoded
       - ${MODEL_DIR}:/model/encoder
-    environment:
-      - PYTHONPATH=/code
-#    command: python /code/data_handling/create_bert_embeddings.py /model/encoder ${MODEL_CHECKPOINT} /data/conll /data/encoded ${MODEL_TAG}
-    command: bash
+      - ${PROJECT_DIR}/extra_files:/model/extra
+
+  encode-conll:
+    extends:
+      service: comum
+    command: /code/scripts/prepare_data.sh
