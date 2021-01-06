@@ -1,10 +1,10 @@
 #!/bin/bash
-export START_FROM=0
-export MODEL=/mnt/rede/tmp/tmp.A7wEGjDMfS/model.obj
-export FLAGS_FILE=./flags.sh
+export START_FROM=4
+export MODEL=/tmp/tmp.EEBPu17JHm/model.obj
+export FLAGS_FILE=/code/scripts/flags.sh
 export FIRST_EPOCH=0
 export BEST_CONLL=0
-export TMPDIR=/mnt/rede/tmp/tmp.A7wEGjDMfS
-export PICKLED_PATH=/mnt/rede/data/pickle/span_40_induction
-./train_eval.sh span_induce_E6
+export TMPDIR=/tmp/tmp.EEBPu17JHm
+export PICKLED_PATH=/data/train/pickle/span_40_induction
+./train_eval.sh simples
 

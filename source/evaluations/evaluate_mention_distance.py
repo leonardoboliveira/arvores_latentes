@@ -67,4 +67,4 @@ def get_lens_in_doc(doc):
 
 
 if __name__ == "__main__":
-    analize_clusters_in_path(r"D:\GDrive\Puc\Projeto Final\Datasets\conll\test")
+    analize_clusters_in_path(r"D:\gdrive\puc\projeto final\Datasets\conll\train")

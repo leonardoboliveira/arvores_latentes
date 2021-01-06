@@ -8,13 +8,38 @@ services:
     volumes:
       - ${PROJECT_DIR}/source/data_handling:/code/data_handling
       - ${PROJECT_DIR}/source/pre_training:/code/pre_training
+      - ${PROJECT_DIR}/source/extension:/code/extension
+      - ${PROJECT_DIR}/third_party/cort/cort:/code/cort
+      - ${PROJECT_DIR}/third_party/cort/bin:/usr/bin/cort
       - ${PROJECT_DIR}/scripts/bash:/code/scripts
-      - ${CONLL_ORIGINAL_FILES}:/data/conll
-      - ${ENCODED_FILES}:/data/encoded
+      - ${CONLL_ORIGINAL_FILES}:/data/original_conll
+      - ${DATA_DIR}:/data
       - ${MODEL_DIR}:/model/encoder
+      - ${OUTPUT_PATH}:/model/output
+      - ${FINAL_MODEL_PATH}:/model/final
       - ${PROJECT_DIR}/extra_files:/model/extra
 
   encode-conll:
     extends:
       service: comum
-    command: /code/scripts/prepare_data.sh
+    command: /code/scripts/encode_conll.sh
+
+  create-batches:
+    extends:
+      service: comum
+    command: /code/scripts/create_batches.sh
+
+  train:
+    extends:
+      service: comum
+    environment:
+      - EXTRA_ROOT=/model/extra
+      - DATA_ROOT=/data
+      - OUT_ROOT=/model/output
+      - SCORER=/code/cort/reference-coreference-scorers/v8.01/scorer.pl
+      - FLAGS_FILE=/code/scripts/flags.sh
+      - CONTINUE_FILE=/code/scripts/continue.sh
+      - PICKLE_ROOT=/data/$DATASET
+      - MODEL_ROOT=/model/final
+      - ADDITIONAL_PATH=/usr/bin/cort
+    command: /code/scripts/train_eval.sh

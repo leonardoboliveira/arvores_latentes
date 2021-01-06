@@ -1,7 +1,6 @@
 #!/bin/bash  -e
 
 set -o xtrace
-EXPERIMENT=${1:-noname}
 
 ### Use external or default options
 # May be defined
@@ -26,6 +25,8 @@ CONTINUE_FILE=${CONTINUE_FILE:-continue.sh}
 #mkdir -p $PICKLE_PATH
 
 . $FLAGS_FILE
+
+EXPERIMENT=${EXPERIMENT:-noname}
 
 BERT_ENCODE=${BERT_ENCODE:-encoded}
 FINAL_MODEL=${MODEL_ROOT:-../../../models/cort}/$BERT_ENCODE.$DATASET.$MAX_DISTANCE.$EXPERIMENT.7z
