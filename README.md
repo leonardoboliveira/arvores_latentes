@@ -27,3 +27,6 @@ Usar um dos seguintes comandos:
   CoNLL precisa ser dividos em batches. O tamanha do batch vai depender de quanta memória se tem disponível
   e qual o tamanho do encoding
 * train: realiza o treino e faz uma mini-validação a cada 6 batches
+
+## Links
+* <a href="http://nlp.cs.washington.edu/pair2vec/spanbert.tar.gz">Modelo treinado SpanBert (Large)</a>
